@@ -25,4 +25,6 @@ Using a Breadth-First search strategy, the program will create the nodes necessa
 - Contains main method and perfoms functions.
 
 [input1.txt](https://github.com/Jcisneros92/Uninformed-Search/blob/master/input1.txt)
-- Sample map provided with all nodes and edges along with the distance between them.
+- Sample map provided with all nodes and edges along with the distance between them. Graphical representation is shown below.
+
+![img](https://i.imgur.com/SUDC1LE.gif)
